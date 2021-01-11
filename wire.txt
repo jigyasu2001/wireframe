@@ -1,0 +1,41 @@
+
+<html>
+<head>
+<title>Home Page</title>
+<link rel="stylesheet" type="text/css" href="css.css" />
+</head>
+<body style="font-family:lucida sans;background:#FF8C00	;">
+
+    <ul width="60px">
+          <li><a href="home.html">Myself</a></li>
+          <li><a href="mother.html">Mother</a></li>
+          <li><a href="father.html">Father</a></li>
+          <li><a href="brother.html">Brother</a></li>
+          <li><a href="other.html">Other Family Members</a></li>  
+    </ul>
+  	<h2><u>Myself</u></h2>
+		<table>
+		  <tr><td>Name</td><td>Jiguasu Singh</td></tr> 
+          <tr><td>Class</td><td>X<sub>th</sub></td></tr>
+          <tr><td>Section</td><td>A</td></tr>
+          <tr><td>Subject</td><td>Computer</td></tr>
+          <tr><td>Date Of Birth</td><td>14 may 2001</td></tr>
+          <tr><td>Nick-Name</td><td>chotu</td></tr>
+        </table>
+		<h4 style="color: #FC0002">About My Family:</h4>
+		<table>
+		<tr>
+		<td><img src="Images/me.jpg"></img></td>
+		<td>My house was built six years ago. My house has three floors and nine rooms: 
+a living room, a dining room, a kitchen, four bedrooms, a bathroom, and a toilet. In the living room, there are a sofa, an armchair, 
+a computer, and a television set. There is a bedroom on the ground floor of my parents. It is a small and comfortable room. In the 
+kitchen, there is a gas cooker, a china cabinet, a microwave oven and a washing machine. There is a refrigerator. A ceiling fan, 
+a big table and chairs in the dining room. On the first floor, there is two elder brothers&apos; room and mine. Finally on the 
+second floor, there is ancestral worship room and a terrace where we often hold parties. We usually meet one another in the living room 
+for lunch and especially for dinner. We often talk about everything: work, study, news, and so on. After dinner, we often watch 
+television in the living room. We are happy together. My house is rather old but I love it so much. I have had a lot of wonderful 
+memories and it is a part of my life.</td>
+		</tr>
+		</table>
+		</body>
+</html>
